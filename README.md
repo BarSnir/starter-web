@@ -1,7 +1,6 @@
-# Starter Web Repo
+# Git Basics
 
-This repository is for showing how Git and GitHub work
+## Purposes
 
-## Purpose
-
-Sample website with plenty of files for demos
+To control fluently on Git basic control flow,
+And handling some advnaced concepts with Git.
