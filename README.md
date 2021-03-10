@@ -9,5 +9,8 @@ And handling some advnaced concepts with Git.
 
 This is a simple repository.
 
+### Contribute
+Please for the repositroy &. issue pull request for review.
+
 ### Copyright
 Copyright git tranining 2021
