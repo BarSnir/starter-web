@@ -8,3 +8,6 @@ And handling some advnaced concepts with Git.
 ### Some edits
 
 This is a simple repository.
+
+### Copyright
+Copyright git tranining 2021
