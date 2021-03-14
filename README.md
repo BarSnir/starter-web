@@ -4,6 +4,7 @@
 
 To control fluently on Git basic control flow,
 And handling some advnaced concepts with Git.
+Adding a line for rebasong example.
 
 ### Some edits
 
